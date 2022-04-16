@@ -4,7 +4,7 @@ Aluminum X Extrusion for Voron Trident and v2.4 with MGN12H
 
 
 <p align="center">
-  <img src="images/image1.png">
+  <img src="images/image2.png">
 </p>
 
 
