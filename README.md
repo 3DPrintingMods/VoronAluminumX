@@ -24,6 +24,8 @@ TBD
 
 ### Low Poly XY Joints
 
+Based on the mod created by `TorxFighter`
+
 <p align="center">
   <img src="images/low_poly_xy_joints.png">
 </p>
