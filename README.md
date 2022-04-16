@@ -18,6 +18,8 @@ Listing on [AliExpress](https://www.aliexpress.com/item/1005004121247823.html)
 
 ## BOM
 
+TBD
+
 ## Printed Parts
 
 ### Low Poly XY Joints
