@@ -6,6 +6,10 @@ Aluminum X Extrusion for Voron Trident and v2.4 with MGN12H
   <img src="images/tubes.png">
 </p>
 
+<p align="center">
+  <img src="images/tubes1.jpeg">
+</p>
+
 
 <p align="center">
   <img src="images/image1.png">
@@ -32,7 +36,7 @@ Analysis created by `TorxFigther` using:
 - 10k acceleration.
 ```
 
-Deflection amount: 0.00456mm
+Deflection/deformation amount: 0.00456mm
 
 <p align="center">
   <img src="images/deformation1.png">
