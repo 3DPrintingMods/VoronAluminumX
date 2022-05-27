@@ -25,6 +25,8 @@ Created by `aTinyShellScript` and `DoubleT`
 
 Listing on [AliExpress](https://www.aliexpress.com/item/1005004121247823.html)
 
+This mod requires the use of umbilical instead of drag chains.
+
 
 ## Static Structual Analysis of Aacceleration Deflection
 
@@ -75,7 +77,7 @@ TBD
 
 ### Low Poly XY Joints
 
-Based on the mod created by `TorxFighter`
+Based on the mod created by `TorxFighter`. This is a work in progress.
 
 <p align="center">
   <img src="images/low_poly_xy_joints.png">
