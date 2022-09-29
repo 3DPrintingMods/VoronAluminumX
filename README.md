@@ -73,13 +73,4 @@ TBD
     - Titanium - [Ali Express](https://www.aliexpress.com/item/2255800962752030.html)
 
 
-## Printed Parts
-
-### Low Poly XY Joints
-
-Based on the mod created by `TorxFighter`. This is a work in progress.
-
-<p align="center">
-  <img src="images/low_poly_xy_joints.png">
-</p>
 
